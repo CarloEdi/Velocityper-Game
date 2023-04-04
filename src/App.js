@@ -131,7 +131,7 @@ function App() {
       <div className="dino-track">
       {won &&  <Confetti />}
       <Vehicle 
-      src="vehicle.png"
+      src="Vehicle.png"
       position={vehiclePosition}
       scaleY={scaleY}>
       </Vehicle>
